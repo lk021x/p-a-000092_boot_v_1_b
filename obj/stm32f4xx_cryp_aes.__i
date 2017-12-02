@@ -1,0 +1,1 @@
+-c --cpu Cortex-M4 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I.\src -I.\lib\inc --c99 -I D:\Keil\ARM\RV31\Inc -I D:\Keil\ARM\CMSIS\Include -I D:\Keil\ARM\Inc\ST\STM32F4xx -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -o ".\obj\stm32f4xx_cryp_aes.o" --omf_browse ".\obj\stm32f4xx_cryp_aes.crf" --depend ".\obj\stm32f4xx_cryp_aes.d" "lib\src\stm32f4xx_cryp_aes.c"

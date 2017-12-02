@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\2.工作交接\7、计量板软件代码、资料（林飞）\P-A-000092_BOOT_V1_B\P-A-000092_BOOT_V1_B\P-A-000092_BOOT_V1_B.uvproj
+Project File Date:  11/01/2016
+
+<h2>Output:</h2>
+Build target 'P-A-000092_BOOT_V1_B'
+linking...
+Program Size: Code=9336 RO-data=876 RW-data=184 ZI-data=5776  
+FromELF: creating hex file...
+".\obj\P-A-000092_BOOT_V1_B.axf" - 0 Error(s), 0 Warning(s).
